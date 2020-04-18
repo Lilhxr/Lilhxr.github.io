@@ -5,8 +5,8 @@
       <h1>黄啸锐</h1>
       <p><b>重庆邮电大学 软件工程</b></p>
       <p><b>邮箱：xiaoruihuang99@gmail.com</b></p>
-      <p><b> Kaggle:https://www.kaggle.com/lilhxr</b></p>
-        <p><b>主页：https://scholar.google.com/citations?hl=en&user=fhqzdSAAAAAJ&view_op=list_works&sortby=title</b></p>
+      <p><b> /index-en.html">https://www.kaggle.com/lilhxr</b></p>
+     <p><b>主页：(https://scholar.google.com/citations?hl=en&user=fhqzdSAAAAAJ&view_op=list_works&sortby=title){:target="_blank"}</b></p>
       <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="70%">
@@ -14,6 +14,8 @@
   </tr>
 </table>
 </div>
+
+(http://forestlp.github.io){:target="_blank"}
  
  
 ---
