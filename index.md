@@ -5,6 +5,7 @@
       <h1>黄啸锐</h1>
       <p><b>重庆邮电大学 软件工程</b></p>
       <p><b>邮箱：xiaoruihuang99@gmail.com</b></p>
+      <p><b>KaggleExpert:(WorldRanking:2314/133412)Top2%<b><p>
       <p><a href="/index-en.html">https://www.kaggle.com/lilhxr</a></p>
     <p><a href="/index-en.html">https://scholar.google.com/citations?hl=en&user=fhqzdSAAAAAJ&view_op=list_works&sortby=title</a></p>
     </td>
@@ -24,11 +25,11 @@ Me：🤖🐱‍👤🐱‍👓
 ---
 
 
-Kaggle:https://www.kaggle.com/lilhxr
 
 ### 研究方向
 - 机器学习
 - 软件工程
+- 数据工程
 
 ### 荣誉奖励
 - Kaggle:IEEE-CISFraudDetection($20000)TOP2%（85/6381）🎉
@@ -45,7 +46,9 @@ Kaggle:https://www.kaggle.com/lilhxr
 完成对3D神经网络输出的混淆样本产生的多极化概率分布序列的表征对照，将其编码后通过引入RBF核SVM和莱温斯坦算法计算距离用于检测和修正混淆样本，提高模型准确率，同时只对输入的RGB图像进行处理并辅以光流融合加速了算法运行效率。
 
 - **3** 
-#### 新加坡国立大学summer workshop（2019.7-2019.8）
+#### 新加坡国立大学summer workshop基于卷积对抗网络的人脸生成网站部署（2019.7-2019.8）
+基于DCGAN模型，使用输入向量生成假人脸，并结合Web开发并部署了一个在线人脸生成服务器。
+个人贡献：对于判别器，我对回归和图像部分的损失进行加权并获得损失函数。在训练时，我通过向损失函数添加历史均值用以改进训练loss震荡不降问题
 
 
 
