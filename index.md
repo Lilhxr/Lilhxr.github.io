@@ -6,10 +6,9 @@
       <p><b>重庆邮电大学 软件工程</b></p>
       <p><b>邮箱：xiaoruihuang99@gmail.com</b></p>
       <p><a href="/index-en.html">https://www.kaggle.com/lilhxr</a></p>
-      <p><b> /index-en.html">https://www.kaggle.com/lilhxr</b></p>
-      <p><b> Pub/index-en.html">https://scholar.google.com/citations?hl=en&user=fhqzdSAAAAAJ&view_op=list_works&sortby=title</b></p>
+    <p><a Pub:href="/index-en.html">https://scholar.google.com/citations?hl=en&user=fhqzdSAAAAAJ&view_op=list_works&sortby=title</a></p>
     </td>
-    <td width="70%">
+    <td width="100%">
     </td>
   </tr>
 </table>
