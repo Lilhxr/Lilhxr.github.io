@@ -1,14 +1,14 @@
 <div>
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="100%">
       <h1>黄啸锐</h1>
       <p><b>重庆邮电大学 软件工程</b></p>
       <p><b>邮箱：xiaoruihuang99@gmail.com</b></p>
       <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="50%">
-      <img src="/zhengjianzhao.jpg" width="50%">
+      <img src="/C:\Users\黄啸锐\Pictures\Camera Roll\1.jpg" width="80%">
     </td>
   </tr>
 </table>
