@@ -1,15 +1,15 @@
 <div>
 <table border="0">
   <tr>
-    <td width="95%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
-      <p><a href="/index-en.html">English Version</a></p>
+    <td width="100%">
+      <h1>黄啸锐</h1>
+      <p><b>重庆邮电大学 软件工程</b></p>
+      <p><b>邮箱：xiaoruihuang99@gmail.com</b></p>
+      <p><b>KaggleExpert(WorldRanking:2314/133412)Top2%<b><p>
+      <p>< a href="/index-en.html">https://www.kaggle.com/lilhxr</ a></p>
+      <p>< a href="/index-en.html">https://scholar.google.com/citations?hl=en&user=fhqzdSAAAAAJ&view_op=list_works&sortby=title</ a></p>
     </td>
-    <td width="85%">
+    <td width="100%">
     </td>
   </tr>
 </table>
