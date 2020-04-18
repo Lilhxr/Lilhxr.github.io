@@ -7,8 +7,8 @@
       <p><b>邮箱：xiaoruihuang99@gmail.com</b></p>
       <p><a href="/index-en.html">English Version</a></p>
     </td>
-    <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">
+    <td width="35%">
+      <img src="/zhengjianzhao.jpg" width="40%">
     </td>
   </tr>
 </table>
@@ -22,8 +22,8 @@
 1. 消息1×××
 
 ### 研究方向
-- 文本挖掘
-- 知识图谱
+- 机器学习
+- 软件工程
 
 ### 荣誉奖励
 - 奖学金
