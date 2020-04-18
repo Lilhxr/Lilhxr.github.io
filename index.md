@@ -7,7 +7,6 @@
       <p><b>邮箱：xiaoruihuang99@gmail.com</b></p>
       <p><b>KaggleExpert(WorldRanking:2314/133412)Top2%<b><p>
       <p><a href="/index-en.html">https://www.kaggle.com/lilhxr</a></p>
-      <p><a href="/index-en.html">https://scholar.google.com/citations?hl=en&user=fhqzdSAAAAAJ&view_op=list_works&sortby=title</a></p>
     </td>
     <td width="100%">
     </td>
