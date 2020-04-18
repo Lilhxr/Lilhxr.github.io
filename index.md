@@ -7,8 +7,8 @@
       <p><b>邮箱：xiaoruihuang99@gmail.com</b></p>
       <p><a href="/index-en.html">English Version</a></p>
     </td>
-    <td width="35%">
-      <img src="/zhengjianzhao.jpg" width="40%">
+    <td width="50%">
+      <img src="/zhengjianzhao.jpg" width="50%">
     </td>
   </tr>
 </table>
